@@ -1,0 +1,5 @@
+{
+  "name": "SkillAR Bharat",
+  "description": "EdTech platform for vocational skills training using camera-based interactive training.",
+  "requestFramePermissions": ["camera"]
+}
